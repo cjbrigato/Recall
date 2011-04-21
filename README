@@ -1,0 +1,1 @@
+This Fork corrects a bunch of weirdness from danharper's Recall original app (Deleting notes bugs, rack-flash bugs on Chrome, db autoupgrade)
